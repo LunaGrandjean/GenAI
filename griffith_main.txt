@@ -1,0 +1,1138 @@
+here are the faculties (also called schools or departments) listed in the Griffith College prospectus:
+•	Faculty of Business
+•	Faculty of Law
+•	Faculty of Computing Science
+•	Faculty of Journalism & Media Communications
+•	Faculty of Creative Arts & Screen Media
+•	Faculty of Design
+•	Faculty of Pharmaceutical Science (Griffith Innopharma)
+•	Faculty of Engineering
+•	Leinster School of Music & Drama
+•	Griffith Professional Accountancy (specialized in accounting certifications and professional training)
+•	Griffith Institute of Language (English language learning and preparation for higher education)
+These faculties deliver a range of programmes including certificates, higher diplomas, undergraduate degrees (bachelor), and postgraduate qualifications (master and diplomas).
+
+Faculty of computing details :
+Undergraduate Programmes
+BSc (Hons) in Computing Science (Level 8 – 4 Years)
+•	Year 1:
+o	Computer Programming
+o	Foundations of Computing
+o	Client-Side Web Development
+o	Computer Hardware
+o	Effective Learning and Development
+•	Year 2:
+o	Data Structures and Algorithms
+o	Operating Systems
+o	Database Systems
+o	Object-Oriented Programming
+o	Software Engineering Principles
+•	Year 3:
+o	Network Management
+o	Cloud Computing
+o	Games Development
+o	Software Development
+o	Work Placement (6 months)
+•	Year 4:
+o	Advanced Topics in Computing
+o	Final Year Project
+Note: Specializations available in Cloud Computing, Games Development, Network Management, and Software Development. 
+BSc in Computing Science (Level 7 – 3 Years)
+•	Year 1:
+o	Computer Programming
+o	Foundations of Computing
+o	Client-Side Web Development
+o	Computer Hardware
+o	Effective Learning and Development
+•	Year 2:
+o	Data Structures and Algorithms
+o	Operating Systems
+o	Database Systems
+o	Object-Oriented Programming
+o	Software Engineering Principles
+•	Year 3:
+o	Network Management
+o	Cloud Computing
+o	Games Development
+o	Software Development
+Note: This programme provides a solid foundation in computing and allows progression to the Level 8 BSc (Hons) in Computing Science. 
+________________________________________
+Postgraduate Programmes
+MSc in Computing (Level 9 – 1 Year Full-Time)
+•	Semester 1:
+o	Research Methods
+o	Computer Networks & Internetworking
+o	Mobile Development
+o	Information Retrieval and Web Search
+•	Semester 2:
+o	Information Security
+o	Agile Software Development
+o	Cloud Platforms & Applications
+o	Parallel & Distributed Programming
+•	Semester 3:
+o	Dissertation / Dissertation by Practice
+Note: This programme equips students with advanced skills in computing, preparing them for leadership roles in the IT industry. 
+MSc in Interactive Digital Media (Level 9 – 1 Year Full-Time)
+•	Semester 1:
+o	Web Authoring
+o	Visual Communication
+o	Digital Media and Society
+o	Research Methods
+•	Semester 2:
+o	Interaction Design
+o	Multimedia Programming
+o	Business of Digital Media
+o	Digital Media Platforms
+•	Electives (Choose 2):
+o	Game Design and Development
+o	Theories and Principles of Animation
+o	Digital Storytelling
+o	3D Modelling and Rendering
+o	Desktop Publishing
+o	Server-side Web Development and Databases
+o	eLearning
+o	Video Production
+•	Semester 3:
+o	Dissertation by Practice (e.g., app, game, website development)
+Note: This programme focuses on the convergence of technology and creative media, preparing students for careers in digital media industries. 
+MSc in Big Data Management and Analytics (Level 9 – 1 Year Full-Time)
+•	Semester 1:
+o	Data Mining and Machine Learning
+o	Big Data Technologies
+o	Data Visualization
+o	Research Methods
+•	Semester 2:
+o	Advanced Analytics
+o	Cloud Computing for Big Data
+o	Data Governance and Ethics
+o	Elective Module
+•	Semester 3:
+o	Dissertation
+Note: This programme provides expertise in managing and analyzing large datasets, a critical skill in today's data-driven industries. 
+MSc in Network and Information Security (Level 9 – 1 Year Full-Time)
+•	Semester 1:
+o	Network Security
+o	Cryptography
+o	Security Protocols
+o	Research Methods
+•	Semester 2:
+o	Ethical Hacking and Penetration Testing
+o	Information Security Management
+o	Cloud Security
+o	Elective Module
+•	Semester 3:
+o	Dissertation
+Note: This programme focuses on protecting information systems from cyber threats, preparing students for roles in cybersecurity. 
+________________________________________
+Higher Diploma Programme
+Higher Diploma in Science in Computing (Level 8 – 1 Year Full-Time)
+•	Semester 1:
+o	Computer Programming
+o	Computer Architecture and Organisation
+o	Discrete Mathematics
+o	Relational Databases
+o	Data Communications and Networks
+•	Semester 2:
+o	Programming and Data Structures
+o	Object-Oriented Development
+o	Operating System Design
+o	HCI & GUI Programming
+o	Software Engineering for Web Applications
+Note: This conversion programme is designed for graduates from non-computing disciplines to transition into the IT industry.
+
+Faculty of business details: 
+Undergraduate Programmes
+BA (Hons) in Business (Level 8 – 3 Years)
+•	Year 1:
+o	Introduction to Management Accounting
+o	Principles of Microeconomics
+o	Technologies for Business
+o	Business Systems Analysis
+•	Year 2:
+o	Business Law
+o	Financial Management
+o	Marketing Principles
+o	Organisational Behaviour
+•	Year 3:
+o	Strategic Management
+o	International Business
+o	Entrepreneurship
+o	Business Research Methods
+o	Final Year Project
+Note: This programme provides a broad foundation in business principles and practices, preparing students for diverse roles in the business sector. 
+BA (Hons) in Business (Marketing) (Level 8 – 3 Years)
+•	Year 1:
+o	Introduction to Management Accounting
+o	Principles of Microeconomics
+o	Technologies for Business
+o	Business Systems Analysis
+•	Year 2:
+o	Marketing Communications
+o	Consumer Behaviour
+o	Digital Marketing
+o	Sales Management
+•	Year 3:
+o	Strategic Marketing
+o	International Marketing
+o	Marketing Research
+o	Brand Management
+o	Final Year Project
+Note: This programme focuses on traditional and digital marketing techniques, equipping students with skills to develop and implement effective marketing strategies. 
+BA (Hons) in Business (HRM) (Level 8 – 3 Years)
+•	Year 1:
+o	Introduction to Management Accounting
+o	Principles of Microeconomics
+o	Technologies for Business
+o	Business Systems Analysis
+•	Year 2:
+o	Human Resource Management
+o	Employment Law
+o	Organisational Behaviour
+o	Training and Development
+•	Year 3:
+o	Strategic HRM
+o	International HRM
+o	Performance Management
+o	Employee Relations
+o	Final Year Project
+Note: This programme provides a comprehensive understanding of HRM practices, preparing students for HR roles in various organisations. 
+BA (Hons) in Accounting & Finance (Level 8 – 3 Years)
+•	Year 1:
+o	Financial Accounting
+o	Management Accounting
+o	Business Mathematics
+o	Business Law
+•	Year 2:
+o	Financial Reporting
+o	Taxation
+o	Corporate Finance
+o	Auditing
+•	Year 3:
+o	Advanced Financial Reporting
+o	Strategic Management Accounting
+o	Advanced Taxation
+o	Financial Management
+o	Final Year Project
+Note: This programme is designed for students aiming for careers in accounting and finance, offering exemptions from professional accounting bodies. 
+________________________________________
+Postgraduate Programmes
+MSc in International Business Management (Level 9 – 1 Year Full-Time)
+•	Core Modules:
+o	Global Marketing
+o	Digital Transformation
+o	Corporate Governance and Sustainable Business Management
+o	International Human Resource Strategies
+o	Financial Management
+•	Final Semester:
+o	Dissertation
+Note: This programme prepares graduates for international business careers, focusing on global strategies and management practices. 
+MBA in International Business (Level 9 – 1 Year Full-Time)
+•	Core Modules:
+o	Strategic Management
+o	International Business Environment
+o	Financial Management
+o	Marketing Management
+o	Operations Management
+o	Human Resource Management
+•	Final Semester:
+o	Dissertation
+Note: The MBA programme offers advanced insights into international business operations and strategic decision-making. 
+________________________________________
+Professional & Short Courses
+Professional Diploma in Business Management
+•	Modules:
+o	Business Management
+o	Introduction to Management Accounting
+o	Technologies for Business
+o	Business Law and Ethics
+Note: This part-time evening course is designed for aspiring managers and professionals seeking to enhance their business management skills. 
+Business Management (Taster Course)
+•	Topics Covered:
+o	History of Management
+o	Management Concepts and Functions
+o	Management and Planning
+o	Management and Organising
+o	Management and Staffing
+o	Management and Control
+o	Management and the Business Environment
+o	Management and Ethics
+Note: This 12-week course provides an introduction to key business management concepts and practices.
+
+Faculty of law details : 
+Undergraduate Programmes
+LL.B. (Hons) in Law (Level 8 – 3 Years)
+•	Year 1:
+o	Introduction to Law and Legal Skills
+o	Law of Contract
+o	Law of Tort
+o	Criminal Law
+o	Information Technology Skills
+•	Year 2:
+o	Constitutional Law
+o	Land Law
+o	Equity and Trusts
+o	Electives (e.g., Family Law, Company Law)
+•	Year 3:
+o	Jurisprudence
+o	European Union Law
+o	Electives (e.g., Employment Law, Intellectual Property Law)
+Note: Students can tailor their degree by selecting electives focusing on areas such as criminal law, human rights law, or corporate law. The programme is available in full-time, part-time, and blended learning modes. 
+LL.B. (Hons) in Commercial Law (Level 8 – 3 Years)
+•	Core Modules:
+o	Law of Contract
+o	Company Law
+o	Commercial Law
+o	Intellectual Property Law
+o	Banking and Finance Law
+o	International Trade Law
+Note: This programme focuses on the legal aspects of commerce and trade, preparing students for careers in corporate law. It is available in full-time and blended learning modes. 
+LL.B. (Hons) in Criminal Justice (Level 8 – 3 Years)
+•	Core Modules:
+o	Criminal Law
+o	Criminology
+o	Criminal Procedure
+o	Evidence Law
+o	Penology
+o	Human Rights Law
+Note: This programme is designed for students interested in the criminal justice system, offering insights into criminal law and its application. It is available in full-time and blended learning modes. 
+________________________________________
+Postgraduate Programmes
+LL.M. in International Law (Level 9 – 1 Year Full-Time)
+•	Core Modules:
+o	Public International Law
+o	International Human Rights Law
+o	International Criminal Law
+o	Law of International Organisations
+o	Dissertation
+Note: This programme provides an in-depth understanding of international legal systems and their impact on global affairs. 
+LL.M. in International Commercial Law (Level 9 – 1 Year Full-Time)
+•	Core Modules:
+o	International Trade Law
+o	International Commercial Arbitration
+o	Corporate Governance
+o	Intellectual Property Law
+o	Dissertation
+Note: This programme focuses on the legal aspects of international commerce, preparing students for careers in global trade law. 
+LL.M. in International Human Rights Law (Level 9 – 1 Year Full-Time)
+•	Core Modules:
+o	International Human Rights Law
+o	Humanitarian Law
+o	Refugee and Asylum Law
+o	Dissertation
+Note: This programme offers a comprehensive study of human rights law on an international scale. 
+________________________________________
+Professional & Short Courses
+Diploma in Legal Studies and Practice (Level 7 – 1 or 2 Years Part-Time)
+•	Core Modules:
+o	Introduction to the Irish Legal System
+o	Law of Contract
+o	Law of Tort
+o	Criminal Law
+o	Land Law
+o	Constitutional Law and Judicial Review
+o	Civil Litigation
+o	Conveyancing
+o	Criminal Practice and Procedure
+o	Professional and Academic Preparedness and Skills
+•	Electives (Choose 2):
+o	Probate Law
+o	Employment Law
+o	Company Law
+o	Family Law
+Note: This diploma prepares learners for a legal career through the study of 12 core legal modules. It is validated by QQI and recognised by the Irish Institute of Legal Executives (IILEx). 
+Certificate in Legal Studies (Level 7 – 1 Year Part-Time)
+•	Core Modules:
+o	Introduction to the Irish Legal System
+o	Law of Contract
+o	Law of Tort
+o	Constitutional Law and Judicial Review
+o	Criminal Law
+o	Land Law
+•	Electives (Choose 2):
+o	Probate Law
+o	Employment Law
+o	Company Law
+o	Family Law
+Note: This certificate provides foundational knowledge of the Irish legal system and is suitable for those seeking an introduction to legal studies. 
+Certificate in Mediation (Professional)
+•	Core Modules:
+o	Introduction to Mediation
+o	Mediation Process and Skills
+o	Ethics and Standards in Mediation
+o	Practical Mediation Skills
+Note: Recognised by the Mediators' Institute of Ireland (MII), this course provides an understanding of mediation as a career and introduces the mediation process.
+
+Faculty of Journalism & Media Communications
+Undergraduate Programmes
+BA (Hons) in Communications and Media Production (Level 8 – 3 Years)
+This programme offers a blend of theoretical knowledge and practical skills across various media platforms, including journalism, digital media, photography, radio, and video production 
+Year 1 Modules:
+•	Photography 1
+•	Understanding Society
+•	Thinking, Writing, Presenting
+•	Video Storytelling
+•	Writing for Media
+•	Communications History
+•	Digital and Online Media Production
+•	Media Law and Ethics
+•	Media Studies
+•	Radio and Podcast Production 1
+Year 2 Modules:
+•	Contemporary Politics
+•	Research Methods
+•	Video Storytelling 2
+•	Electives (choose based on specialisation):
+o	Media Reporting and Editing
+o	Radio and Podcast Production 2
+o	Investigative Journalism
+o	Photography 2
+o	Web Design 
+Year 3 Modules:
+•	Media Sociology
+•	Commercial Photography
+•	Sports Journalism
+•	Business of Media
+•	Investigative Journalism
+•	Video Production 1 & 2
+Students can choose specialist streams in Years 2 and 3 to focus on their preferred area of media. 
+________________________________________
+BA in Communications (Level 7 – 3 Years)
+This programme provides an introduction to various communication platforms, including photography, radio, journalism, and TV. 
+Year 1 Modules:
+•	Digital, Online and Social Media Production
+•	Mobile Media
+•	Photography 1
+•	Thinking, Writing, Presenting
+•	Understanding Society
+•	Communications History
+•	Cultural Journalism
+•	Radio Production 1
+•	Writing for Media
+•	Contemporary Politics
+•	Media Law and Ethics
+Year 2 Modules:
+•	Media Reporting and Editing
+•	Radio Production 2
+•	Investigative Journalism
+•	Photography 2
+•	Web Design
+•	Shorthand (Elective)
+•	Writing and Presentation Skills (Elective) 
+Year 3 Modules:
+•	Business of Media
+•	Investigative Journalism
+•	Video Production 1 & 2 
+Graduates can progress to the final year of the BA (Hons) in Communications and Media Production to obtain a Level 8 qualification. 
+________________________________________
+Postgraduate Programmes
+MA in Journalism & Digital Communications (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+This programme is designed for aspiring communications professionals eager to master the art of producing, managing, and delivering high-quality journalism across multiple platforms. 
+Core Modules:
+•	Communications & Audience Theories
+•	Data Journalism & Analytics
+•	Digital Communications & Investigative Journalism
+•	Media Product Design & Professional Development
+•	Mobile Video Production
+•	Multiplatform Writing & Editing
+•	Podcasting & Radio Production
+•	Research: Methods & Skills
+Electives (Choose 2):
+•	International Political Economy
+•	Photojournalism
+•	Social/Digital Content Creation
+•	Sports Journalism
+•	The Business of Media
+•	Video Storytelling
+Students have access to state-of-the-art radio and TV studios and can build their own online professional portfolio. 
+________________________________________
+Postgraduate Diploma in Journalism and Digital Communications (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+This programme offers a comprehensive syllabus of digital media production skills and digital communications theory.
+Core Modules:
+•	Communications & Audience Theories
+•	Data Journalism & Analytics
+•	Digital Communications & Investigative Journalism
+•	Media Product Design & Professional Development
+•	Mobile Video Production
+•	Multiplatform Writing & Editing
+•	Podcasting & Radio Production
+•	Research: Methods & Skills 
+Graduates may progress to the dissertation stage to obtain the full MA in Journalism & Digital Communications. 
+________________________________________
+MA in Public Relations & Digital Communications (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+This programme provides a well-rounded, internationally recognised communications qualification that prepares students for careers within the communications, media, and public relations industries
+Core Modules:
+•	Communications and Audience Theories
+•	Corporate Communications
+•	Dissertation
+•	Mobile Video Production
+•	Political Communications and Public Affairs
+•	Public Relations Theory and Practice
+•	The Business of Media
+The programme is recognised by the National Union of Journalists (NUJ) and the Public Relations Institute of Ireland (PRII). 
+________________________________________
+MA in Digital Communications: Podcasting and Video (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+This programme is for learners who wish to graduate as industry-ready journalism and digital communications professionals with advanced TV and radio production skills.
+Core Modules:
+•	Video Journalism
+•	Radio Documentary Research and Production
+•	Radio, TV News and Current Affairs
+•	Mobile Video Production
+•	Podcasting & Radio Production
+•	Media Product Design & Professional Development
+•	Research: Methods & Skills
+•	Dissertation
+Learners get hands-on content production and editing experience in industry-standard radio and TV studios.
+
+Faculty of Creative Arts & Screen Media
+Undergraduate Programmes
+BA (Hons) in Film, TV and Screen Media Production (Level 8 – 3 Years)
+This programme is designed for students aiming to develop practical skills and theoretical knowledge in film, television, and screen media production. 
+Year 1 Modules:
+•	Screen Culture & Theory
+•	Introduction to Production Design
+•	Film and TV History
+•	Production and Direction for Film and Television
+•	Location Sound
+•	Digital Photography
+•	Applications Technology (Digital Editing, Avid) 
+Year 2 Modules:
+•	Advanced Cinematography
+•	Scriptwriting for Screen
+•	Post-Production Techniques
+•	Visual Effects and Compositing
+•	Media Law and Ethics
+Year 3 Modules:
+•	Major Project Development
+•	Advanced Production Techniques
+•	Professional Practice in Screen Media
+•	Final Project (Film/TV Production) 
+________________________________________
+BA in Film, TV and Screen Media Production (Level 7 – 3 Years)
+This programme offers a practical approach to film and television production, focusing on developing core skills in screen media.
+Year 1 Modules:
+•	Introduction to Film and TV Production
+•	Camera and Lighting Techniques
+•	Sound Recording and Design
+•	Editing Principles
+•	Screenwriting Basics
+Year 2 Modules:
+•	Documentary Production
+•	Advanced Editing Techniques
+•	Production Management
+•	Visual Storytelling
+Year 3 Modules:
+•	Short Film Project
+•	Industry Engagement
+•	Portfolio Development
+________________________________________
+BA in Photographic Media (Level 7 – 3 Years)
+This programme prepares students for careers in commercial photography and related visual fields, emphasizing a professional approach combined with analytical skills.
+Year 1 Modules:
+•	Ways of Seeing
+•	Digital Photography Techniques
+•	Studio Lighting
+•	Visual Culture 
+Year 2 Modules:
+•	Portrait and Fashion Photography
+•	Photojournalism
+•	Post-Production and Image Editing
+•	Professional Practice
+Year 3 Modules:
+•	Final Major Project
+•	Exhibition Planning and Curation
+•	Advanced Photographic Techniques 
+________________________________________
+Certificate Programmes
+Certificate in Screen Production (Level 6 – 12 Weeks)
+This practical course equips learners with the skills to conceive ideas and develop material suitable for the production of short factual items for multiplatform distribution. 
+Key Learning Areas:
+•	Idea Development
+•	Pre-Production Planning
+•	Production Techniques
+•	Post-Production Editing
+•	Multiplatform Distribution Strategies
+________________________________________
+Certificate in Digital Cinematography and Image Grading
+This programme provides knowledge and practical skills for roles such as camera assistant, camera operator, or self-shooting content producer/director. 
+Core Topics:
+•	Camera Operations
+•	Lighting Techniques
+•	Camera Movement
+•	Working with Clients
+•	Image Finishing and Grading
+
+
+Faculty of Design details 
+Undergraduate Programmes
+BA (Hons) in Fashion Design (Level 8 – 3 Years)
+Year 1 Modules:
+•	Design Graphics 1
+•	The Business of Fashion 1
+•	Contextual Studies for Fashion
+•	Garment Construction 1
+•	Fashion Design 1
+Year 2 Modules:
+•	Design Graphics 2
+•	Brand and Marketing
+•	Fashion Design 2
+•	Garment Construction 2
+•	Fashion Illustration
+Year 3 Modules:
+•	Design Futures
+•	Final Major Project
+•	Portfolio Development
+•	Professional Practice
+•	Fashion Collection Development 
+________________________________________
+BA (Hons) in Interior Architecture (Level 8 – 3 Years)
+Year 1 Modules:
+•	Interior Projects 1
+•	Ergonomics and Anthropometrics
+•	Architectural Drafting & 2D CAD
+•	Design Graphics 1
+•	History of Interior Design and Architecture
+Year 2 Modules:
+•	Interior Projects 2
+•	Advanced 2D CAD & Introduction to 3D CAD
+•	Building Regulations in Interior Design
+•	Lighting Design
+•	Design Culture and Theory
+Year 3 Modules:
+•	Interior Projects 3
+•	Sustainable Design Strategies
+•	Professional Practice in Interior Architecture
+•	Final Major Project
+•	Portfolio Development 
+________________________________________
+BA (Hons) in Graphic Communication Design (Level 8 – 3 Years)
+Year 1 Modules:
+•	Contextual Studies for Visual Communication
+•	Design Principles
+•	Communication Design 1
+•	Illustration 1
+•	Typography 1
+Year 2 Modules:
+•	Communication Design 2
+•	Advertising & Editorial Photography
+•	Illustration 2
+•	Typography 2
+•	Design Culture and Theory
+Year 3 Modules:
+•	Communication Design 3
+•	Branding and Identity Design
+•	User Experience (UX) Design
+•	Final Major Project
+•	Portfolio Development 
+________________________________________
+BA in Fashion Design (Level 7 – 3 Years)
+Year 1 Modules:
+•	Design Graphics 1
+•	Fashion Design 1
+•	Garment Construction 1
+•	The Business of Fashion 1
+•	Contextual Studies for Fashion
+Year 2 Modules:
+•	Design Graphics 2
+•	Fashion Design 2
+•	Garment Construction 2
+•	Brand and Marketing
+•	Fashion Illustration
+Year 3 Modules:
+•	Design Futures
+•	Final Major Project
+•	Portfolio Development
+•	Professional Practice
+•	Fashion Collection Development
+________________________________________
+BA in Interior Architecture & Design (Level 7 – 3 Years)
+Year 1 Modules:
+•	Interior Projects 1
+•	Ergonomics and Anthropometrics
+•	Architectural Drafting & 2D CAD
+•	Design Graphics 1
+•	History of Interior Design and Architecture
+Year 2 Modules:
+•	Interior Projects 2
+•	Advanced 2D CAD & Introduction to 3D CAD
+•	Building Regulations in Interior Design
+•	Lighting Design
+•	Design Culture and Theory
+Year 3 Modules:
+•	Interior Projects 3
+•	Sustainable Design Strategies
+•	Professional Practice in Interior Architecture
+•	Final Major Project
+•	Portfolio Development
+________________________________________
+BA in Graphic Communication Design (Level 7 – 3 Years)
+Year 1 Modules:
+•	Contextual Studies for Visual Communication
+•	Design Principles
+•	Communication Design 1
+•	Illustration 1
+•	Typography 1
+Year 2 Modules:
+•	Communication Design 2
+•	Advertising & Editorial Photography
+•	Illustration 2
+•	Typography 2
+•	Design Culture and Theory
+Year 3 Modules:
+•	Communication Design 3
+•	Branding and Identity Design
+•	User Experience (UX) Design
+•	Final Major Project
+•	Portfolio Development
+________________________________________
+Certificate Programmes
+Certificate in Art and Design (Level 6 – 1 Year)
+Core Modules:
+•	Design Principles
+•	2D Freehand Drawing Techniques
+•	Digital Design Tools
+•	Creative Studio Projects
+•	Visual Culture and Theory
+
+
+Faculty of Pharmaceutical Science (Griffith Innopharma)
+🎓 Undergraduate Programmes
+BA (Hons) in Pharmaceutical Business Operations (Level 8 – 3 Years)
+Year 1 Modules:
+•	Pharmaceutical Manufacturing
+•	Management & Organisational Behaviour
+•	Operations Management
+•	Regulatory Affairs & Validation
+Year 2 Modules:
+•	Clinical Research Coordination
+•	Data Management & Analysis
+•	Business Improvement (Lean Sigma)
+•	Project Coordination
+Year 3 Modules:
+•	Advanced Pharmaceutical Operations
+•	Strategic Management in Pharma
+•	Professional Development & Ethics
+•	Final Year Project
+________________________________________
+BA in Pharmaceutical Business Operations (Level 7 – 2 Years)
+Year 1 Modules:
+•	Pharmaceutical Manufacturing
+•	Management & Organisational Behaviour
+•	Operations Management
+•	Regulatory Affairs & Validation
+Year 2 Modules:
+•	Clinical Research Coordination
+•	Data Management & Analysis
+•	Business Improvement (Lean Sigma)
+•	Project Coordination
+________________________________________
+Postgraduate Programmes
+MSc in Pharmaceutical Business and Technology (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+Core Modules:
+•	Processes, Production and Pharmaceutical Quality Systems
+•	Regulatory Landscape of Pharmaceutical Business
+•	Pharmaceutical Technology Transfer
+•	Clinical Research Management
+•	Operational Excellence & the Science of Innovation
+•	Strategy, Leadership & the Culture of Innovation
+•	Research Methods
+•	Dissertation________________________________________
+MSc in Medical Device Technology & Business (Level 9 – 1 Year Full-Time / Blended Learning)
+Core Modules:
+•	Medical Device Technology
+•	Medical Device Quality Systems & Regulation
+•	Emerging Trends in Medical Devices
+•	Research Methods
+•	Strategy, Leadership & the Culture of Innovation
+•	Dissertation
+________________________________________
+MSc in Pharmaceutical Business Management (Level 9 – 1 Year Full-Time / 2 Years Part-Time)
+Core Modules:
+•	International Strategy
+•	Technology & Innovation
+•	Leadership and Management Development
+•	International Marketing
+•	Building Sustainability and Responsibility
+•	Digital Transformation
+•	Dissertation
+________________________________________
+Postgraduate Diploma Programmes
+Postgraduate Diploma in Pharmaceutical Business and Technology (Level 9 – 1 Year)
+Core Modules:
+•	Processes, Production and Pharmaceutical Quality Systems
+•	Regulatory Landscape of Pharmaceutical Business
+•	Pharmaceutical Technology Transfer
+•	Clinical Research Management
+•	Operational Excellence & the Science of Innovation
+•	Strategy, Leadership & the Culture of Innovation
+•	Research Methods
+________________________________________
+Postgraduate Diploma in Medical Device Technology & Business (Level 9 – 1 Year)
+Core Modules:
+•	Medical Device Technology
+•	Medical Device Quality Systems & Regulation
+•	Emerging Trends in Medical Devices
+•	Research Methods
+•	Strategy, Leadership & the Culture of Innovation
+________________________________________
+Postgraduate Diploma in Digital Transformation (Life Science) (Level 9 – 1 Year)
+Core Modules:
+•	Digital Transformation in Life Sciences
+•	Data Analytics and Decision Making
+•	Operational Excellence
+•	Change Management
+•	Innovation and Entrepreneurship
+
+Faculty of Engineering details 
+Undergraduate Programmes
+Bachelor of Engineering in Industrial and Systems Engineering (Level 7 – 1 Year, Part-Time)
+Core Modules:
+•	Industrial Engineering Principles and Systems
+•	Operations Management
+•	Process Improvement Techniques
+•	Supply Chain Management
+•	Project Management
+•	Quality Assurance
+•	Lean Manufacturing
+•	Professional Development
+Note: This programme is designed for skilled tradespeople and those with experience in the manufacturing industry to become professional industrial engineers. It focuses on improving productivity, efficiency, and profitability across various industries. 
+________________________________________
+Higher National Diploma (HND) in Manufacturing Engineering (Level 6 – 2 Years, Part-Time)
+Year 1 Modules:
+•	Engineering Management
+•	Engineering Maths
+•	Production Engineering for Manufacture
+•	Quality and Process Improvement
+•	Engineering Design
+•	Engineering Science
+•	Managing a Professional Engineering Project
+•	Electrical and Electronic Principles 
+Year 2 Modules:
+•	Research Project 1 & 2
+•	Professional Engineering Management
+•	Manufacturing Systems Engineering
+•	Lean Manufacturing
+•	Advanced Manufacturing Technologies
+•	Sustainabilit
+Note: This programme provides technical training in manufacturing engineering, focusing on systems design and delivering knowledge and work-related skills in specialist disciplines. 
+________________________________________
+Higher National Certificate (HNC) in Manufacturing Engineering (Level 6 – 1 Year, Part-Time)
+Modules:
+•	Engineering Management
+•	Quality and Process Improvement
+•	Production Engineering for Manufacturing
+•	Engineering Maths
+•	Engineering Design
+•	Managing a Professional Engineering Project
+•	Electrical and Electronic Principles
+•	Engineering Science
+Note: This certificate delivers knowledge and skills in specialist areas of manufacturing engineering, suitable for those seeking a career in manufacturing, biopharma, or medical devices industries. 
+________________________________________
+Certificate Programmes
+Certificate in Industrial Electrical Safety and Systems (Level 6 – 6 Weeks, Part-Time)
+Modules:
+•	Safety Standards in Electrical Circuits
+•	AC and DC Electric Circuits
+•	Power Calculations in Electrical Systems
+•	Operation and Testing of AC Induction Motors
+•	Electrical Drawings Interpretation
+•	Basic Electrical Circuit Construction 
+Note: This programme is designed for individuals working with electrical systems, focusing on safety and practical skills in industrial electrical engineering. 
+________________________________________
+Certificate in Industrial Instrumentation Calibration (Level 6 – 4-6 Weeks, Part-Time)
+Modules:
+•	Safe Work Practices in Process Environments
+•	Principles of Calibration
+•	Pressure Measurement Techniques
+•	Level Measurement Techniques
+•	Flow Measurement Techniques
+•	Temperature Measurement Techniques
+•	Calibration Documentation and Records
+Note: This programme equips learners with knowledge and practical skills to calibrate process control instruments, adhering to safety standards and industry practices. 
+________________________________________
+Certificate in Industrial Manufacturing and Maintenance Skills (Level 6 – 1 Year, Part-Time)
+Modules:
+•	Industrial Electrical Safety and Systems
+•	Fundamentals of GMP and Quality Regulations
+•	HVACR Principles
+•	Workplace Communication
+Note: This programme provides key knowledge and competencies in industrial manufacturing and maintenance, focusing on technical and soft skills required in highly regulated industries. 
+
+Leinster School of Music & Drama
+Postgraduate Programmes
+Higher Diploma in Arts in Drama Education (Level 8 – 1 Year, Part-Time)
+This programme is designed for aspiring drama educators and practitioners, providing a comprehensive foundation in drama teaching methodologies and practices.g
+Core Modules:
+•	Preparing the Performer: Explores classic and contemporary techniques relevant to modern theatre practice, including postural forms, gestures, movement, and energy.
+•	The Creative Process: Focuses on improvisation and working with text, providing a grounding in directing skills essential for drama teaching.
+•	Pedagogy and Teaching Placement: Combines theoretical knowledge with practical teaching experience in drama education settings.
+•	Professional Practice: Develops professional skills and understanding of the drama education landscape.
+•	Psychology of Teaching and Learning: Examines psychological principles relevant to teaching and learning in drama.
+•	Application of the Creative Process: Applies creative techniques in practical teaching scenarios. 
+________________________________________
+Certificate Programmes
+Certificate in Drama Education (45 Credits – Level 8 – 1 Year, Part-Time)
+This programme allows students to concentrate on acquiring specific teaching skills through four modules from the Higher Diploma in Arts in Drama Education. 
+Core Modules:
+•	Preparing the Performer: As described above.
+•	The Creative Process: As described above.
+•	Pedagogy and Teaching Placement: As described above.
+•	Professional Practice: As described above. 
+________________________________________
+Certificate in Drama Performance (20 Credits – Level 8 – 1 Year, Part-Time)
+This programme enables learners to concentrate on developing their performance skills at a high level, serving as a progression route to a drama teaching qualification. 
+Core Modules:
+•	Preparing the Performer: As described above.
+•	The Creative Process: As described above
+________________________________________
+Certificate in Preparing the Performer (Level 8 – 1 Year, Part-Time)
+This certificate is designed for teachers who wish to improve their skills and inspire their students, focusing on voice, mime, mask, and movement in the modern drama classroom. 
+Core Module:
+•	Preparing the Performer: As described above.
+________________________________________
+Diploma Programmes
+Associate Diploma (ALSMD) – Performers
+This diploma focuses on performance skills, including improvisation, prose and poetry reading, and mime. 
+Assessment Components:
+•	Written Examination: Three-hour paper covering various aspects of drama and performance.
+•	Practical Examination:
+o	Recital: Performance of selected pieces.
+o	Improvisation: Short improvisational performance.
+o	Prose & Poetry: Sight reading of prose and poetry.
+o	Talk: Short talk on a given topic.
+o	Discussion: Viva voce on the programme and syllabus.
+o	Mime: Prepared mime performance. 
+________________________________________
+Licentiate Diploma (LLSMD) – Teachers
+This diploma is aimed at those pursuing a teaching qualification in drama, encompassing written, practical, and reflective components. 
+Assessment Components:
+•	Written Examination: Sections covering various theoretical aspects of drama education.
+•	Recital: Performance based on a chosen theme, demonstrating structure, balance, and presentation skills.
+•	Portfolio & Reflective Journal: Compilation of teaching experiences and reflective practice.
+
+
+Griffith Professional Accountancy (specialized in accounting certifications and professional training)
+ACCA (Association of Chartered Certified Accountants)
+Griffith College is an ACCA Platinum Approved Learning Partner, offering flexible study options across Dublin, Cork, and Limerick. 
+ACCA Qualification Structure
+1.	Applied Knowledge:
+o	Business and Technology (BT)
+o	Management Accounting (MA)
+o	Financial Accounting (FA)
+2.	Applied Skills:
+o	Corporate and Business Law (LW)
+o	Performance Management (PM)
+o	Taxation (TX)
+o	Financial Reporting (FR)
+o	Audit and Assurance (AA)
+o	Financial Management (FM)g
+3.	Strategic Professional:
+o	Essentials:
+	Strategic Business Leader (SBL)
+	Strategic Business Reporting (SBR)
+o	Options (choose two):
+	Advanced Financial Management (AFM)
+	Advanced Performance Management (APM)
+	Advanced Taxation (ATX)
+	Advanced Audit and Assurance (AAA)
+Students must also complete the Ethics and Professional Skills Module and acquire 36 months of relevant work experience.
+ACCA Diploma in Accounting & Business
+An entry-level qualification covering: 
+•	Business and Technology (BT)
+•	Management Accounting (MA)
+•	Financial Accounting (FA) 
+This diploma can be completed in approximately 12 months and serves as a pathway to the full ACCA qualification. 
+ACCA Computer-Based Exams (CBEs)
+Available for Applied Knowledge and select Applied Skills exams, CBEs offer: 
+•	Instant results
+•	Flexible scheduling
+•	Multiple sittings per year
+CBEs are conducted at Griffith College campuses in Dublin, Cork, and Limerick. 
+________________________________________
+CPA (Certified Public Accountants)
+Griffith College is a Gold Star Approved Educator for CPA Ireland, offering part-time tuition with flexible learning options.
+CPA Qualification Structure
+1.	Foundation Level:
+o	Introduction to Accounting
+o	Business Management
+o	Business Law
+o	Economics 
+2.	Professional Level:
+o	Financial Reporting
+o	Performance Management
+o	Taxation
+o	Audit and Assurance 
+3.	Strategic Level:
+o	Advanced Financial Reporting
+o	Strategy & Leadership
+o	Advanced Tax Strategy
+o	Audit Practice & Assurance
+o	Strategic Corporate Finance
+Students can choose electives to specialize in areas aligning with their career goals.
+________________________________________
+ATI (Accounting Technicians Ireland)
+Griffith College offers the ATI qualification, providing a solid foundation in accounting principles over two years.
+Year 1 Modules:
+•	Financial Accounting
+•	Taxation
+•	Business Management
+•	Law & Ethics
+Year 2 Modules:
+•	Advanced Financial Accounting
+•	Advanced Taxation
+•	Management Accounting
+•	Integrated Accounting Systems
+This qualification is ideal for those seeking to enter the accounting profession or progress to further studies.
+________________________________________
+Study Modes and Support
+Griffith College provides various study options to accommodate different learning preferences:
+•	Part-Time Classes: Evening and weekend lectures.
+•	E-Learning: Access to recorded lectures, study materials, and tutor support via Moodle.
+•	Live Streaming: Real-time access to classes with interactive features.
+•	Revision Courses: Focused sessions to prepare for exams. 
+All students receive comprehensive study materials, including:
+•	Kaplan and/or BPP study texts and practice kits.
+•	Lecturer's notes and revision materials.
+•	Mock exams and feedback.
+
+
+Griffith Institute of Language (English language learning and preparation for higher education)
+English Language Programmes
+1. English for Academic Purposes (EAP)
+Overview:
+Designed for students aiming to pursue undergraduate or postgraduate studies at Griffith College but who have not yet met the English language requirements
+Key Features:
+•	Duration: Up to 45 weeks, structured in nine five-week blocks.
+•	Entry Requirement: Minimum IELTS score of 4.0 or equivalent.
+•	Focus Areas:
+o	Development of core language skills: Listening, Speaking, Reading, and Writing.
+o	Academic skills: Essay writing, research techniques, and presentation skills.
+o	Cultural orientation to adapt to studying in a Western academic environment.
+•	Assessment: Continuous assessment throughout the course.
+•	Progression: Successful completion may lead to enrollment in Griffith College’s undergraduate or postgraduate programmes.
+2. General English Year-Round Programmes
+Overview:
+Aimed at learners who wish to improve their general English proficiency for personal, professional, or academic purposes.
+Key Features:
+•	Duration: Flexible, ranging from 2 to 38 weeks.
+•	Schedule: Monday to Thursday, 9:20 AM to 1:35 PM.
+•	Levels: Courses available from elementary to advanced levels.
+•	Focus Areas:
+o	Enhancement of everyday communication skills.
+o	Grammar and vocabulary development.
+o	Listening and speaking practice in real-life contexts.
+•	Additional Support: Access to language labs and extracurricular activities to reinforce learning. 
+3. Gap Year / Semester Abroad Programme
+Overview:
+Combines English language learning with academic modules from Griffith College’s undergraduate and postgraduate programmes.c
+Key Features:
+•	Duration: One or two semesters.
+•	Entry Requirement: Minimum CEFR level B2.
+•	Structure:
+o	15 hours per week of English language instruction.
+o	Enrollment in selected academic modules across various disciplines, such as Business, Journalism, Design, Hospitality Management, Photography, and Computing.
+•	Benefits:
+o	Immersive experience in an English-speaking academic environment.
+o	Opportunity to earn credits transferable to home institutions.
+o	Cultural enrichment through participation in college events and societies. 
+4. Certificate in International Foundation Studies (CIFS)
+Overview:
+Tailored for international students who need to enhance their English language skills and academic knowledge before commencing a degree programme.
+Key Features:
+•	Duration: Typically one academic year.
+•	Structure:
+o	Intensive English language preparation.
+o	Study skills development.
+o	Subject-specific modules aligned with intended degree pathways.
+•	Progression: Successful completion facilitates entry into undergraduate programmes at Griffith College. 
+________________________________________
+Campuses
+The Griffith Institute of Language offers these programmes across multiple campuses:
+•	Dublin Main Campus
+•	Cork Campus
+•	Limerick Campus
+Each campus provides a supportive learning environment with access to modern facilities and resources.
+
+
+
+Introduction from the President Professor Diarmuid Hegarty
+“I am delighted to introduce you to Griffith College. In choosing Griffith College, you are joining a community of over 7,000 students at our four campuses, two in Dublin and one in both Cork and Limerick, and an alumni network of more than 40,000 graduates who over the past five decades have gone on to achieve notable careers both nationally and internationally.
+
+Griffith College Dublin
+Contact
+Griffith College Dublin, South Circular Road, Dublin 8
+Phone: +353 1 415 0415
+Email: admissions@griffith.ie
+Web: www.griffith.ie
+Griffith College City Centre
+Contact
+Griffith College City Centre, 25 Wolfe Tone Street, D01 X9K7
+Phone: +353 1 415 0450
+Email: admissions.citycentre@griffith.ie
+Web: www.griffith.ie/citycentre
+
+Griffith College Cork
+Contact
+Griffith College Cork, Wellington Rd, Cork
+Phone: +353 21 450 7027
+Email: admissions.gcc@griffith.ie
+Web: www.griffith.ie
+
+Griffith College Limerick
+Contact
+Griffith College Limerick, O’Connell Avenue, Limerick City
+Phone: +353 61 310 031
+Email: admissions.gcl@griffith.ie
+Web: www.griffith.ie
+Entry Requirements
+These pages highlight key information points about academic requirements set by our validating partners for both undergraduate and postgraduate programmes.
+Application Process
+Direct Entry Courses
+Griffith College Dublin also offers a large number of courses in each faculty that may not appear on the CAO system. Applications to these courses can be made directly to the GCD Admissions Office or via our website: www.griffith.ie/apply.
+CAO Applications
+Students under the age of 23, on January 1st of the year of entry, who wish to apply to the first year of any QQI validated undergraduate full-time programme, must make that application through the CAO system. The closing date for applications for EU citizens is February 1st, with late applications being accepted until May 1st. Up to July 1st, students may also fill out a CAO ‘Change of Mind’ form. Application forms and copies of the current handbook are available from the GCD Admissions Office or from the CAO directly. More detailed information regarding CAO deadlines and the CAO  application process can be obtained by visiting www.cao.ie.
+Selection of CAO Applicants
+Selection is made on the basis of the total points awarded in a student’s top six subjects, in a single sitting of the Leaving Certificate. The results of two sittings of the Leaving Certificate may be combined for the purposes of meeting the programme requirements for minimum entry. Please note that not all students presenting the minimum entry requirements will be guaranteed a place at the College. Please consult individual course descriptions in this prospectus for the most recent CAO points.
+QQI/FETAC Application Process
+Applications must be made through the CAO for those courses offered through the CAO. For direct entry programmes, applicants must send a completed direct entry application form to the College. For more information on this access route, please contact the Admissions Office on +353 1 415 0400 or email admissions@griffith.ie.
+Direct Entry Courses (including full-time, part-time and postgraduate)
+Applicants for all Griffith College direct entry courses are required to meet the minimum entry requirements as indicated in the individual course descriptions in this prospectus. Mature applicants for any full or part-time undergraduate programme are required to supply photographic identification and evidence of date of birth. Applications for all direct entry programmes (undergraduate, postgraduate, part-time/evening time) must be made on the website www.griffith.ie/apply and relevant* supporting documentation can be emailed to admissions@griffith.ie or posted to The Admissions Office, Griffith College Dublin, South Circular Road, Dublin 8.
+*All applications for direct entry to undergraduate programmes should include a copy of official Leaving Certificate results with the exception of mature applicants (who must supply evidence of date of birth). All applicants for postgraduate programmes should include an official copy of third level qualifications.
+Accreditation of Prior Learning and Prior Experience (APL/APEL)
+Griffith College welcomes applications from those with prior academic and/or professional learning experience relevant to the programme of their choice. Please contact the Admissions Office for more information on the policies regarding the accreditation of prior learning and experience (APL/ APEL).
+Transfer Applications
+The College welcomes applications from students holding qualifications from other accredited institutions and universities. Depending on the nature and duration of their studies, such students may be eligible to join the second or third year of the College’s QQI Ordinary and Honours Degree programmes.
+Mature Applications for Undergraduate Courses
+Griffith College Dublin welcomes applications from mature applicants. Applicants interested in applying for a programme as a mature student should contact the Admissions Office for more details and applicants should apply directly online at www. griffith.ie/apply.
+Griffith College Scholarship Scheme
+The Griffith College Scholarship Scheme is designed for students who wish to enter a programme of  study at the College but are unable to do so due to financial constraints or social circumstances. The scheme is open to students interested in applying for our full-time undergraduate programmes and who are presently attending an approved second level institution. It is envisaged that students who would not otherwise have access to the programme of their choice at Griffith College Dublin could do so under this initiative. Application forms and details can be obtained from your school or from the Admissions Office at Griffith College Dublin. The closing date for applications is April 30th each year and a decision will be made by May 31st regarding successful applications.
+Students with Disabilities and Special Needs
+Applicants with disabilities and special needs wishing to pursue an academic programme at the College are recommended to contact the College in writing with details of the nature and extent of your disability. This will allow us to give you the best advice prior to application. Applicants will be given ample opportunity to advise the College of any specific requirements and can be assured that this disclosure will not adversely affect their application or legal rights in any way.
+Opportunity Scholarship
+Every year Griffith College awards scholarships to students who show an interest in our courses and can demonstrate an ability or passion for that area. The scholarship is open to any current Leaving Certificate students or those studying on QQI Level 5 courses in Ireland. Northern Ireland school students may also apply. The scholarship is means tested with the aim of providing an equal opportunity for more students to attend an independent college. For further information, common FAQ’s are available on our CAO Hub on the website here: www.griffith.ie/cao You can also email our Schools Liaison Officers directly with the email provided below.
+Open Days
+Open Days are a great opportunity to visit our campus and talk to our faculty staff and admissions team about the courses we offer. To register for upcoming Open Days, please visit:  www.griffith.ie/opendays
+School Visits
+Our Schools Liaison Officers are available to visit schools nationwide to inform students about the courses available at Griffith College. Please contact us to request a virtual or face-to-face visit.
+International Student Information
+Griffith College provides career focused education, producing graduates who are highly employable worldwide and who excel in their chosen careers. 
+Studying in Griffith College: Global Engagement Office
+The Global Engagement Office is committed to ensuring excellent support services for the integration of international students into the College. The experienced global staff are available to assist students with any academic or welfare issues they may have. 
+Applying for a Study Visa 
+If you need a visa to study in Ireland, you must apply to your local Irish Embassy/Consulate. Please contact the Global Engagement Office If there is no Irish Embassy/Consulate in your country of residence. The Griffith College Visa Officer can provide guidance on your visa application. For further information please visit the GC website www.griffith.ie/global or contact the Global Engagement Office by email at global@griffith.ie
+
+Application Guidelines
+To make an application to the College you can apply online at www.griffith.ie/apply-online.
+• Copies of second level/high school certificates (including all grades achieved in examinations and/or transcripts of grades achieved).
+• Copies of university/third level award certificates (where applicable). Provisional certificates must be provided if the award has not yet been issued.
+• A transcript of results for all subjects taken at third level must be provided.
+• TOEFL/IELTS/Duolingo score sheet or other internationally recognised English language test score if applicable.
+• Proof that education was conducted in English if applicable (letter from school/college required).
+• Copy of relevant pages of passport.
+• CV/Résumé detailing your academic/work history year-by-year with no gaps.
+• Statement of Purpose/Student Profile indicating the reasons for your choice of course and why you want to study in Ireland and at Griffith College.
+• Two reference letters, at least one of which should be academic i.e., from a professor, lecturer or teacher.
+English language entry requirements
+Students from countries where English is not the native language must demonstrate that their language level is of a suitable standard. GC can appraise a student’s English language level as follows:
+• TOEFL/IELTS/Duolingo (or other): If a student has achieved a satisfactory score in one of these internationally recognized English language tests, they may progress to their chosen programme. (Please see table on the right indicating scores required for GC programmes). Test results older than 2 years will not be accepted.
+• English Language Test: Students who are not in possession of an internationally recognised English language test or who have not achieved the required score will be required to complete an English Language Test before a final offer can be given.
+Griffith College English Language Entry Requirements
