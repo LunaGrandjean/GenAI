@@ -183,6 +183,7 @@ The response and conversation history are then saved in PostgreSQL.
 
 ## Project Authors
 
-- **Luna Grandjean**  
+- **Luna Grandjean**
+- **Anna Bordachar**
 - **Mathilde Maudet**  
 - **Sereine Tawamba**
